@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "HivisionIDPhotos Docs": {
+      "type": "sse",
+      "url": "https://gitmcp.io/Zeyi-Lin/HivisionIDPhotos"
+    }
+  }
+}

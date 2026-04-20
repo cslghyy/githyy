@@ -1,0 +1,10 @@
+{
+  "title": "数字经济背景下高校创新创业教育质量提升研究",
+  "research_content": "请围绕数字经济、高校创新创业教育、人才培养质量之间的关系撰写论文，重点关注教育投入、研发投入、数字化基础设施与就业相关指标。",
+  "keywords": ["数字经济", "高校教育", "创新创业", "人才培养", "就业"],
+  "country_codes": ["CN", "1W"],
+  "indicator_codes": ["SE.XPD.TOTL.GD.ZS", "GB.XPD.RSDV.GD.ZS", "IT.NET.USER.ZS", "SL.UEM.TOTL.ZS"],
+  "literature_limit": 6,
+  "data_limit": 6,
+  "output_dir": "output"
+}

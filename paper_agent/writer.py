@@ -67,7 +67,7 @@ class TemplatePaperWriter:
         ]
 
         if literature:
-            for item in literature[: min(len(literature), 6)]:
+            for item in literature[:6]:
                 authors = "、".join(item.authors[:3]) if item.authors else item.publisher
                 lines.append(
                     f"1. {authors}在《{item.title}》中从相关视角讨论了该议题。"
